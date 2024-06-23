@@ -8,7 +8,6 @@ Soy un apasionado Data Scientist y Data Analyst de Argentina con formación en C
 - **Big Data:** Apache Spark, Apache Hadoop
 - **Machine Learning:** Scikit-learn, TensorFlow
 - **Frameworks:** FastAPI, Flask
-- **Metodologías:** Agile, Pair Programming
 
 ### Proyectos Destacados
 - **Recomendación de Juegos en Steam:** Desarrollo de una API utilizando técnicas avanzadas de Machine Learning para personalizar la experiencia del usuario.
