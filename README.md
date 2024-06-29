@@ -83,19 +83,12 @@
 </div>
 
 <h2 align="center"><strong style="font-size: 1.2em;">📬 &nbsp;Contactos</strong></h2>
-<p align="center">
-<br>    
-<a target="_blank" href="https://www.linkedin.com/in/facundo-corvalan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a href="#" onclick="copyToClipboard('adrian.facundo2001@gmail.com')"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<br>
-</p>
-
-<script>
-function copyToClipboard(text) {
-  navigator.clipboard.writeText(text).then(function() {
-    alert('Correo copiado al portapapeles: ' + text);
-  }, function(err) {
-    console.error('Error al copiar: ', err);
-  });
-}
-</script>
+<br />
+<div align="center">
+  <a href="https://www.linkedin.com/in/facundo-corvalan" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:adrian.facundo2001@gmail.com" target="_blank">
+  <img src=https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+  </a>
+</div> 
