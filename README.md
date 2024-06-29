@@ -2,8 +2,8 @@
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
- Soy Facundo Corvalán, científico de datos con experiencia en análisis y ingeniería de datos. Me especializo en interpretar datos para descubrir insights y diseñar infraestructuras eficientes para su gestión.
- Me apasiona explorar nuevas tecnologías y enfrentar nuevos desafíos en diferentes entornos de datos.
+ Soy Facundo Corvalan, científico de datos con experiencia en análisis y ingeniería de datos. Me especializo en interpretar datos para descubrir insights y diseñar infraestructuras eficientes para su gestión.
+ Me apasiona explorar nuevas tecnologías y enfrentar nuevos desafíos en diferentes entornos.
 
 **Algunas cosas sobre mí:**
 
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-<h2 align="center"><strong style="font-size: 1.2em;">💻 &nbsp;Tech Stack y Herramientas</strong></h2>
+<h2 align="center"><strong style="font-size: 1.2em;">💻 &nbsp;Stack Tecnológico y Herramientas</strong></h2>
 <div style="text-align: center;">
   <br/>
   <img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
