@@ -1,20 +1,101 @@
-## ¡Hola! 👋 Soy Facundo Corvalan
+## ¡Buenas!
 
-Soy un apasionado Data Scientist y Data Analyst de Argentina con formación en Ciencias de la Computación. Me especializo en liderazgo de equipos, análisis de datos a gran escala y solución de problemas críticos. Mi trayectoria incluye el desarrollo de backend con NodeJS y la implementación de soluciones utilizando Python, PowerBI, SQL y Docker.
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
-### Tech Stack y Herramientas
-- **Lenguajes de Programación:** Python, SQL, JavaScript, Node.js
-- **Herramientas:** PowerBI, Docker, MySQL, Visual Studio Code
-- **Big Data:** Apache Spark, Apache Hadoop
-- **Machine Learning:** Scikit-learn, TensorFlow
-- **Frameworks:** FastAPI, Flask
+ Soy Facundo Corvalán, científico de datos con experiencia en análisis y ingeniería de datos. Me especializo en interpretar datos para descubrir insights y diseñar infraestructuras eficientes para su gestión.
+ Me apasiona explorar nuevas tecnologías y enfrentar nuevos desafíos en diferentes entornos de datos.
 
-### Proyectos Destacados
-- **Recomendación de Juegos en Steam:** Desarrollo de una API utilizando técnicas avanzadas de Machine Learning para personalizar la experiencia del usuario.
-  - GitHub: [Recomendación de Juegos](https://github.com/facu-corvalan/Recomendacion_de_juegos)
-  
-- **Análisis de Siniestros Viales en CABA:** Utilización de Python y PowerBI para identificar patrones y reducir víctimas en accidentes de tránsito.
-  - GitHub: [Siniestros Viales](https://github.com/facu-corvalan/Siniestros_viales)
+**Algunas cosas sobre mí:**
 
-### Contacto
-¡Conectemos! Estoy interesado en colaborar en proyectos innovadores y conversar sobre ciencia de datos y tecnología. Encuéntrame en [LinkedIn](https://www.linkedin.com/in/facundo-corvalan) o envíame un correo a adrian.faundo2001@gmail.com.
+1️⃣ **Data Science:** Tengo un enfoque profundo en Data Science, donde aplico técnicas avanzadas para resolver problemas complejos y extraer valor de los datos.
+
+2️⃣ **Conocimientos en Python:** Utilizo Python para análisis de datos, machine learning y desarrollo de backend. Me gusta mantenerme al día con las últimas bibliotecas y herramientas de Python para optimizar mis proyectos.
+
+3️⃣ **Proyectos autodidactas:** Actualmente estoy realizando proyectos de manera autodidacta para seguir mejorando mis habilidades. Me encanta explorar nuevas ideas y aplicarlas en proyectos prácticos y innovadores.
+
+4️⃣ **Pregúntame cualquier cosa sobre programación:** Estoy siempre dispuesto a compartir conocimientos y aprender más sobre programación y tecnología. ¡No dudes en hacerme cualquier pregunta!
+
+
+<br />
+<br />
+
+<h2 align="center"><strong style="font-size: 1.2em;">💻 &nbsp;Tech Stack y Herramientas</strong></h2>
+<div style="text-align: center;">
+  <br/>
+  <img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/Power%20BI-%230B72B9.svg?style=for-the-badge&logo=Power-BI&logoColor=white">&nbsp;
+  <br/>
+  <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">&nbsp;
+</div>
+
+<br />
+<br />
+
+<h2 align="center"><strong style="font-size: 1.2em;">👀 &nbsp;Proyectos destacados</strong></h2>
+<div>
+<table>
+<tr>
+  <td width="50%">
+    <h3 align="center">Recomendacion de juegos</h3>
+    <div align="center">                                       
+        <a href="https://github.com/facu-corvalan/Recomendacion_de_juegos" target="_blank"><img src="https://img.freepik.com/vector-gratis/consola-juegos-letras-letrero-neon-fondo-ladrillo_1262-11854.jpg" width="230" alt="Recomendacion de juegos"></a>
+        <br>
+        <p><a href="https://github.com/facu-corvalan/Recomendacion_de_juegos" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        </p>Este proyecto consiste en crear una API para Steam, desarrollando un modelo de recomendación basado en Machine Learning. Proporciona una interfaz intuitiva para que los usuarios puedan consultar datos sobre géneros, fechas, puntuaciones de sentimientos, entre otros.</p>
+        <p>Data Science</p>
+    </div>   
+</td>
+<td width="50%">
+    <h3 align="center">Siniestros viales</h3>
+    <div align="center">
+        <a href="https://github.com/facu-corvalan/Siniestros_viales" target="_blank"><img src="https://informatesalta.com.ar/download/multimedia.normal.99352a78cd26c28f.c2luaWVzdHJvc19ub3JtYWwuanBlZw%3D%3D.jpeg" width="300" alt="Ninja Social Network"></a>
+        <p><a href="https://github.com/facu-corvalan/Siniestros_viales" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        <p>El fin de este proyecto es generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales ocurridos en CABA. Para ello, se pone a disposición un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021.</p>
+        <p>Data Analytics</p>
+    </div>
+</table>
+<br>
+<table>
+<tr>  
+  <td width="50%">
+    <h3 align="center">Taxis en NYC</h3>
+    <div align="center">
+        <a href="https://github.com/facu-corvalan/nyc-taxis" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm6D_SiVbNsBCLiQ5xTQwJUZCUxpXiVn_6DQ&s" width="300" alt="Pokemon Wiki"></a>
+        <p><a href="https://github.com/facu-corvalan/nyc-taxis" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        <p>La movilidad en New York ha aumentado la demanda de taxis, impactando varias dimensiones, siendo el transporte el mayor productor de CO2 en EE.UU. Para mitigar su impacto ambiental y satisfacer las necesidades de transporte, este proyecto evaluará la incorporación de una flota de taxis eléctricos en la ciudad.</p>
+        <p>Proyecto colaborativo</p>
+    </div>                                                                          
+</td> 
+</table>                                                                                 
+</div>
+
+<h2 align="center"><strong style="font-size: 1.2em;">📬 &nbsp;Contactos</strong></h2>
+<p align="center">
+<br>    
+<a target="_blank" href="https://www.linkedin.com/in/facundo-corvalan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a href="#" onclick="copyToClipboard('adrian.facundo2001@gmail.com')"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
+</p>
+
+<script>
+function copyToClipboard(text) {
+  navigator.clipboard.writeText(text).then(function() {
+    alert('Correo copiado al portapapeles: ' + text);
+  }, function(err) {
+    console.error('Error al copiar: ', err);
+  });
+}
+</script>
