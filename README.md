@@ -25,6 +25,7 @@
   <img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
   <img height="30" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;
   <img height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
+  <img height="30" src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=white">&nbsp;
   <img height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp;
   <img height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
   <img height="30" src="https://img.shields.io/badge/Power%20BI-%230B72B9.svg?style=for-the-badge&logo=Power-BI&logoColor=white">&nbsp;
@@ -68,7 +69,7 @@
 </table>
 <br>
 <table>
-<tr>  
+<tr>
   <td width="50%">
     <h3 align="center">Taxis en NYC</h3>
     <div align="center">
@@ -78,8 +79,17 @@
         <p>Proyecto colaborativo</p>
     </div>                                                                          
 </td> 
-</table>                                                                                 
-</div>
+  <td width="50%">
+    <h3 align="center">Big Data</h3>
+    <div align="center">
+        <a href="https://github.com/facu-corvalan/Big-Data" target="_blank"><img src="https://www.masterbigdataucm.com/wp-content/uploads/2018/02/que-es-big-data.jpg" width="500" alt="Big Data"></a>
+        <p><a href="https://github.com/facu-corvalan/Big-Data" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        <p>Proyecto de código abierto centrado en el estudio y autoaprendizaje en el mundo de la ingeniería de datos, con un enfoque particular en Big Data. Este repositorio sirve como un tutorial detallado para aquellos interesados en aprender a manejar grandes volúmenes de datos, ofreciendo guías prácticas y ejemplos.</p>
+        <p>Proyecto de código abierto</p>                                                                         
+</td>
+    </div>
+</table>
+
 
 <h2 align="center"><strong style="font-size: 1.2em;">📬 &nbsp;Contactos</strong></h2>
 <br />
