@@ -60,7 +60,7 @@
 <td width="50%">
     <h3 align="center">Siniestros viales</h3>
     <div align="center">
-        <a href="https://github.com/facu-corvalan/Siniestros_viales" target="_blank"><img src="https://informatesalta.com.ar/download/multimedia.normal.99352a78cd26c28f.c2luaWVzdHJvc19ub3JtYWwuanBlZw%3D%3D.jpeg" width="300" alt="Ninja Social Network"></a>
+        <a href="https://github.com/facu-corvalan/Siniestros_viales" target="_blank"><img src="https://informatesalta.com.ar/download/multimedia.normal.99352a78cd26c28f.c2luaWVzdHJvc19ub3JtYWwuanBlZw%3D%3D.jpeg" width="300" alt="Siniestros viales"></a>
         <p><a href="https://github.com/facu-corvalan/Siniestros_viales" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
         <p>El fin de este proyecto es generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales ocurridos en CABA. Para ello, se pone a disposición un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021.</p>
         <p>Data Analytics</p>
@@ -72,7 +72,7 @@
   <td width="50%">
     <h3 align="center">Taxis en NYC</h3>
     <div align="center">
-        <a href="https://github.com/facu-corvalan/nyc-taxis" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm6D_SiVbNsBCLiQ5xTQwJUZCUxpXiVn_6DQ&s" width="300" alt="Pokemon Wiki"></a>
+        <a href="https://github.com/facu-corvalan/nyc-taxis" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm6D_SiVbNsBCLiQ5xTQwJUZCUxpXiVn_6DQ&s" width="300" alt="Taxis en NYC"></a>
         <p><a href="https://github.com/facu-corvalan/nyc-taxis" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
         <p>La movilidad en New York ha aumentado la demanda de taxis, impactando varias dimensiones, siendo el transporte el mayor productor de CO2 en EE.UU. Para mitigar su impacto ambiental y satisfacer las necesidades de transporte, este proyecto evaluará la incorporación de una flota de taxis eléctricos en la ciudad.</p>
         <p>Proyecto colaborativo</p>
