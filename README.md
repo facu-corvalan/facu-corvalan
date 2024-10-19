@@ -80,10 +80,10 @@
     </div>                                                                          
 </td> 
   <td width="50%">
-    <h3 align="center">Big Data</h3>
+    <h3 align="center">Análisis del Mercado Inmobiliario en USA y Airbnb</h3>
     <div align="center">
-        <a href="https://github.com/facu-corvalan/Big-Data" target="_blank"><img src="https://www.masterbigdataucm.com/wp-content/uploads/2018/02/que-es-big-data.jpg" width="500" alt="Big Data"></a>
-        <p><a href="https://github.com/facu-corvalan/Big-Data" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        <a href="https://github.com/facu-corvalan/Airbnb" target="_blank"><img src="https://fotos.perfil.com/2023/02/23/trim/1040/780/airbnb-1514490.jpg" width="300" alt="Airbnb"></a>
+        <p><a href="https://github.com/facu-corvalan/Airbnb" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
         <p>Proyecto de código abierto centrado en el estudio y autoaprendizaje en el mundo de la ingeniería de datos, con un enfoque particular en Big Data. Este repositorio sirve como un tutorial detallado para aquellos interesados en aprender a manejar grandes volúmenes de datos, ofreciendo guías prácticas y ejemplos.</p>
         <p>Proyecto de código abierto</p>                                                                         
 </td>
