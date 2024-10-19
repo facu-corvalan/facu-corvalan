@@ -84,8 +84,8 @@
     <div align="center">
         <a href="https://github.com/facu-corvalan/Airbnb" target="_blank"><img src="https://fotos.perfil.com/2023/02/23/trim/1040/780/airbnb-1514490.jpg" width="300" alt="Airbnb"></a>
         <p><a href="https://github.com/facu-corvalan/Airbnb" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
-        <p>Proyecto de código abierto centrado en el estudio y autoaprendizaje en el mundo de la ingeniería de datos, con un enfoque particular en Big Data. Este repositorio sirve como un tutorial detallado para aquellos interesados en aprender a manejar grandes volúmenes de datos, ofreciendo guías prácticas y ejemplos.</p>
-        <p>Proyecto de código abierto</p>                                                                         
+        <p>El mercado inmobiliario en Estados Unidos ha experimentado fluctuaciones significativas en los últimos años, en parte debido a la expansión de plataformas como Airbnb. Este proyecto tiene como objetivo analizar cómo Airbnb está afectando los precios de las propiedades y las tendencias de alquiler en diferentes estados del país, evaluando su impacto económico y determinando las mejores oportunidades de inversión en el sector inmobiliario a corto y largo plazo.</p>
+        <p>Data Science</p>                                                                         
 </td>
     </div>
 </table>
